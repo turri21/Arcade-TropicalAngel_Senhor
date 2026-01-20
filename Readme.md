@@ -1,3 +1,8 @@
+-=(TropicalAngel_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [Tropical Angel](https://www.arcade-museum.com/game_detail.php?game_id=10205) for [MiSTer FPGA](https://mister-devel.github.io/MkDocs_MiSTer/)
 
 ![Tropical Angel Logo](doc/clear_logo.png)
@@ -51,3 +56,4 @@ Quick reference for folders and file placement:
 /_Arcade/mame/<mame rom>.zip
 /_Arcade/hbmame/<hbmame rom>.zip
 ```
+
